@@ -13,6 +13,7 @@
 		ED479E1624D7C40400946468 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED479E1524D7C40400946468 /* Assets.xcassets */; };
 		ED479E1924D7C40400946468 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED479E1824D7C40400946468 /* Preview Assets.xcassets */; };
 		ED479E1C24D7C40400946468 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED479E1A24D7C40400946468 /* LaunchScreen.storyboard */; };
+		ED479E2424D7DE7400946468 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = ED479E2324D7DE7400946468 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ED479E1824D7C40400946468 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ED479E1B24D7C40400946468 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED479E1D24D7C40400946468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED479E2324D7DE7400946468 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				ED479E1324D7C40300946468 /* ContentView.swift */,
 				ED479E1524D7C40400946468 /* Assets.xcassets */,
 				ED479E1A24D7C40400946468 /* LaunchScreen.storyboard */,
+				ED479E2324D7DE7400946468 /* start.txt */,
 				ED479E1D24D7C40400946468 /* Info.plist */,
 				ED479E1724D7C40400946468 /* Preview Content */,
 			);
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED479E1C24D7C40400946468 /* LaunchScreen.storyboard in Resources */,
+				ED479E2424D7DE7400946468 /* start.txt in Resources */,
 				ED479E1924D7C40400946468 /* Preview Assets.xcassets in Resources */,
 				ED479E1624D7C40400946468 /* Assets.xcassets in Resources */,
 			);
